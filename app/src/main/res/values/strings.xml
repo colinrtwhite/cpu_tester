@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CPU Tester</string>
+    <string name="action_settings">Settings</string>
+    <string name="compute_explanation_start">The background computation process will run for the next</string>
+    <string name="compute_explanation_end">second(s).</string>
+    <string name="computation_finished_message">Pi approximation:</string>
+</resources>
