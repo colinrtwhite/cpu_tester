@@ -14,7 +14,7 @@ import java.util.Calendar;
 public class ComputeService extends IntentService {
     public static final String PI_ID = "pi_id";
     // Amount of computation time in seconds
-    public static final int COMPUTATION_SECONDS = 5;
+    public static final int COMPUTATION_SECONDS = 30;
 
     public ComputeService() {
         super("ComputeService");
